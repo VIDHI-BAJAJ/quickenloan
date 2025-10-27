@@ -61,13 +61,12 @@ const Footer = () => {
         <div>
           <h3 className="font-bold mb-4">Our Services</h3>
           <ul className="space-y-2">
-            <li><Link to="/services">Self-Managed Super Funds</Link></li>
-            <li><Link to="/services">Business/Vehicle Loan</Link></li>
-            <li><Link to="/services">Home Loan</Link></li>
-            <li><Link to="/services">Refinance</Link></li>
-            <li><Link to="/services">Property Investment</Link></li>
-            <li><Link to="/services">House & Land Packages</Link></li>
-            <li><Link to="/services">First Home Buyer</Link></li>
+            <li><Link to="/services">Residential Home Loans</Link></li>
+            <li><Link to="/services">Refinancing & Equity Release</Link></li>
+            <li><Link to="/services">Asset & Equipment Finance</Link></li>
+            <li><Link to="/services">Personal Loans</Link></li>
+            <li><Link to="/services">Business & Commercial Loans</Link></li>
+            <li><Link to="/services">Self-Managed Super Fund Loans</Link></li>
           </ul>
         </div>
 

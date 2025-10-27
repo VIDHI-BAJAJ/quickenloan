@@ -5,6 +5,13 @@ import Homeimage from "../images/icon/homeimages.png"
 import Dollar from "../images/icon/dollar.png"
 import Women from "../images/women.png"
 import Family from "../images/family.jpg"
+import Commerical from "../images/commercial.jpg"
+import Asset from "../images/Asset and equipment finance.jpg"
+import Homeloans from "../images/home loan.jpg"
+import personal from "../images/personal loan.jpg"
+import refinance from "../images/refinance.jpg"
+import smsf from "../images/SMSF.jpg"
+
 import { MessageCircle, Clock, Users, RotateCcw } from "lucide-react";
 
 const Home = () => {
@@ -77,37 +84,37 @@ const Home = () => {
     title: "RESIDENTIAL HOME LOANS",
     description:
       "Tailored home loan solutions for first home buyers, investors, and families. We compare lenders to secure the right loan for your needs.",
-    image: Family
+    image: Homeloans
   },
   {
     title: "REFINANCING & EQUITY RELEASE",
     description:
       "Save on repayments or unlock equity from your property. We help you restructure your loan to access better rates or extra funds.",
-    image: Family
+    image: refinance
   },
   {
     title: "ASSET & EQUIPMENT FINANCE",
     description:
       "Flexible finance for vehicles, machinery, and equipment to support your lifestyle or business growth.",
-   image: Family
+   image: Asset
   },
   {
     title: "PERSONAL LOANS",
     description:
       "Fast and flexible loans for renovations, travel, education, or unexpected expenses.",
-    image: Family
+    image: personal
   },
   {
     title: "BUSINESS & COMMERCIAL LOANS",
     description:
       "Finance solutions to start, grow, or expand your business. Tailored structures for cash flow and investment.",
-    image: Family
+    image: Commerical
   },
   {
     title: "SELF-MANAGED SUPER FUND LOANS",
     description:
       "Use your super to invest in property with compliance-focused SMSF loan structures.",
-   image: Family
+   image: smsf
   },
 ];
 const features = [
