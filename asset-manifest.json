@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/quickenloan/static/css/main.3e78e11c.css",
-    "main.js": "/quickenloan/static/js/main.53550246.js",
-    "static/js/453.3e213e93.chunk.js": "/quickenloan/static/js/453.3e213e93.chunk.js",
-    "static/media/Asset and equipment finance.jpg": "/quickenloan/static/media/Asset and equipment finance.33ca939c7e12dbcda7cf.jpg",
-    "static/media/personal loan.jpg": "/quickenloan/static/media/personal loan.e59072f39f26b09edea9.jpg",
-    "static/media/women.png": "/quickenloan/static/media/women.0a28a92457beff17825e.png",
-    "static/media/SMSF.jpg": "/quickenloan/static/media/SMSF.f6db3dbed4f958367785.jpg",
-    "static/media/refinance.jpg": "/quickenloan/static/media/refinance.9be781c352a05ee45a78.jpg",
-    "static/media/commercial.jpg": "/quickenloan/static/media/commercial.c29abc9fc96344c9ca55.jpg",
-    "static/media/home loan.jpg": "/quickenloan/static/media/home loan.91f0cae4f0c8119f159e.jpg",
-    "static/media/family.jpg": "/quickenloan/static/media/family.4457a430b0a4a3949af2.jpg",
-    "static/media/banner.jpg": "/quickenloan/static/media/banner.93eda3e0e9a12e5abb1f.jpg",
-    "static/media/Logo.png": "/quickenloan/static/media/Logo.061e1760443ae068e225.png",
-    "static/media/dollar.png": "/quickenloan/static/media/dollar.41eecdf7b9033bdeee1a.png",
-    "static/media/homeimages.png": "/quickenloan/static/media/homeimages.99b0f5ce7b261d884f24.png",
-    "index.html": "/quickenloan/index.html",
-    "main.3e78e11c.css.map": "/quickenloan/static/css/main.3e78e11c.css.map",
-    "main.53550246.js.map": "/quickenloan/static/js/main.53550246.js.map",
-    "453.3e213e93.chunk.js.map": "/quickenloan/static/js/453.3e213e93.chunk.js.map"
+    "main.css": "/static/css/main.3e78e11c.css",
+    "main.js": "/static/js/main.75b66d64.js",
+    "static/js/453.3e213e93.chunk.js": "/static/js/453.3e213e93.chunk.js",
+    "static/media/Asset and equipment finance.jpg": "/static/media/Asset and equipment finance.33ca939c7e12dbcda7cf.jpg",
+    "static/media/personal loan.jpg": "/static/media/personal loan.e59072f39f26b09edea9.jpg",
+    "static/media/women.png": "/static/media/women.0a28a92457beff17825e.png",
+    "static/media/SMSF.jpg": "/static/media/SMSF.f6db3dbed4f958367785.jpg",
+    "static/media/refinance.jpg": "/static/media/refinance.9be781c352a05ee45a78.jpg",
+    "static/media/commercial.jpg": "/static/media/commercial.c29abc9fc96344c9ca55.jpg",
+    "static/media/home loan.jpg": "/static/media/home loan.91f0cae4f0c8119f159e.jpg",
+    "static/media/family.jpg": "/static/media/family.4457a430b0a4a3949af2.jpg",
+    "static/media/banner.jpg": "/static/media/banner.93eda3e0e9a12e5abb1f.jpg",
+    "static/media/Logo.png": "/static/media/Logo.061e1760443ae068e225.png",
+    "static/media/dollar.png": "/static/media/dollar.41eecdf7b9033bdeee1a.png",
+    "static/media/homeimages.png": "/static/media/homeimages.99b0f5ce7b261d884f24.png",
+    "index.html": "/index.html",
+    "main.3e78e11c.css.map": "/static/css/main.3e78e11c.css.map",
+    "main.75b66d64.js.map": "/static/js/main.75b66d64.js.map",
+    "453.3e213e93.chunk.js.map": "/static/js/453.3e213e93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e78e11c.css",
-    "static/js/main.53550246.js"
+    "static/js/main.75b66d64.js"
   ]
 }
